@@ -3,5 +3,6 @@
 local-testing.md
 app.py
 
-
+.vscode
+.DS_store
 
